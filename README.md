@@ -1,3 +1,3 @@
 # arsita
 my new classwork
-This nis readme file of branche 1
+This is readme file of branche 1
